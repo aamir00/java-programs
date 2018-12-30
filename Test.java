@@ -5,6 +5,7 @@ public static void main(String[] args) {
         float b = 9.5f;
         int c = (int) b;
         System.out.println(c);
+        
 }
 
 }

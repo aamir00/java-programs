@@ -20,6 +20,7 @@ public static void main(String[] args) {
                 System.out.print(num_array[i]+" ");
 
         }
+        
 
 }
 }
