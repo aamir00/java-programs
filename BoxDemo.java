@@ -1,4 +1,3 @@
-import Math;
 class Box {
 double width;
 double height;
